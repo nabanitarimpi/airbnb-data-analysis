@@ -35,6 +35,8 @@ The analysis focuses mainly on the following questions :
 - What causes a property to cost more than others?
 - Does background of a host have an impact on listings?
 - What roles do booking policies play?
+- What can we conclude from the 'age' of a listing?
+
 
 The .ipynb file holds data cleaning and visualisation codes that try to find answers to the above questions by providing deeper insight into the data. This notebook comes with a detailed explanation of different data cleaning methods used in the analysis and also highlights the important findings.
 
