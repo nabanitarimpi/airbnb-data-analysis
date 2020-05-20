@@ -4,13 +4,13 @@ This repository contains python code for data wrangling and visualisations of [A
 
 ## Requirements
 - **Python 3.7+**
--
+
 - **Numpy** (`pip install numpy`)
--
+
 - **Pandas** (`pip install pandas`)
--
+
 - **MatplotLib** (`pip install matplotlib`)
--
+
 - **Seaborn** (`pip install seaborn`)
 
 If  you are using **anaconda virtual environment**, you can install the above packages by running `conda install package-name`.
