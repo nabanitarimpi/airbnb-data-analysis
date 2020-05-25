@@ -42,4 +42,4 @@ The .ipynb file holds data cleaning and visualisation codes that try to find ans
 
 ## External link
 
-See my article on this analysis on [**Medium**]().
+See my article on this analysis on [**Medium**](https://medium.com/@nabanita.rimpi/looking-for-a-place-to-stay-at-your-next-destination-ask-the-data-3a97bc6fbaff).
